@@ -1,0 +1,17 @@
+GOALS/
+├── src/
+│   ├── ai.js
+│   ├── player.js
+│   ├── ball.js
+│   ├── game.js
+│
+├── assets/
+│   ├── images/
+│   ├── sounds/
+│
+├── docs/
+│
+├── .gitignore
+├── index.html
+├── style.css
+└── README.md
